@@ -1,3 +1,11 @@
+
+The list below is known tools that have been tested.  
+If you find a new tool please use the [newTools.md](https://github.com/Matrix20085/toolList/blob/main/newTools.md) file.  
+If there is a major change to a tool in this list document it in [majorChanges.md](https://github.com/Matrix20085/toolList/blob/main/majorChanges.md).  
+
+    
+---
+
 #### LOLBAS (Living Off the Land Binaries and Scripts)
 https://lolbas-project.github.io/#
 
