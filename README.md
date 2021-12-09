@@ -18,6 +18,11 @@ https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
     List of tools and methods for AD take overs
     Includes some Windows privexc stuff
 ---
+#### Payload All the Things
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+    Tons of webapp tools and methods
+---
 https://github.com/byt3bl33d3r/CrackMapExec
 
     SMB or RDP (non-interactive) code execution
